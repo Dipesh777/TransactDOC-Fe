@@ -65,3 +65,8 @@ frontend/
 ```bash
 npm install
 npm run dev
+
+Demo login credentials for testing
+
+UserID : dipesh1@gmail.com
+password : Test1
