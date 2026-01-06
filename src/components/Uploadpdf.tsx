@@ -25,6 +25,6 @@ export default function UploadPdf({ setTransactions, setPdfUrl }: any) {
 
 
     return (
-        <input type="file" accept="application/pdf" onChange={handleUpload} />
+        <input type="file" className="cursor-pointer border p-2" accept="application/pdf" onChange={handleUpload} />
     );
 }
