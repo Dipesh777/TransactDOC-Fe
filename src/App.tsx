@@ -3,6 +3,8 @@ import ProtectedRoute from './routes/ProtectedRoute';
 import PublicRoute from './routes/PublicRoute';
 import AuthLayout from './layouts/AuthLayout';
 import AppLayout from './layouts/AppLayout';
+import './styles/main.scss';
+
 // import './App.scss';
 
 import Login from './pages/authPages/Login';

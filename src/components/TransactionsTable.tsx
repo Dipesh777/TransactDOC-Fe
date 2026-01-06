@@ -2,13 +2,13 @@ export default function TransactionsTable({ data }: any) {
 return (
 <div className="overflow-auto max-h-[500px] border">
 <table className="w-full border-collapse">
-<thead className="bg-gray-200">
+<thead className="bg-white-200">
 <tr>
-<th className="border p-2">Buyer</th>
-<th className="border p-2">Seller</th>
-<th className="border p-2">Survey No</th>
-<th className="border p-2">Doc No</th>
-<th className="border p-2">Value</th>
+<th className="border p-3">Buyer</th>
+<th className="border p-3">Seller</th>
+<th className="border p-3">Survey No</th>
+<th className="border p-3">Doc No</th>
+<th className="border p-3">Value</th>
 </tr>
 </thead>
 <tbody>
