@@ -1,5 +1,5 @@
 import { useState } from "react";
-import UploadPdf from "../components/UploadPdf";
+import UploadPdf from "../components/Uploadpdf";
 import TransactionsTable from "../components/TransactionsTable";
 import PdfPreview from "../components/PdfPreview";
 
